@@ -1,7 +1,6 @@
 # rev-eca
-rev-eca
 
-
-<a href="https://www.reveca.ecat.ro" >
-https://www.reveca.ecat.ro
+Accesati urmatorul link pentru a vizualiza site-ul:
+<a href="https://reveca.ecat.ro" >
+[https://www.reveca.ecat.ro](https://reveca.ecat.ro/)
 </a>
